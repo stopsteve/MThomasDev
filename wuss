@@ -1,15 +1,48 @@
 {
-"Ad":{    
-    "choice":"facebook",
-    "interstital":"319193906753834_319194310087127",
-    "native":"319193906753834_319194630087095",
-    "banner" : "319193906753834_319194780087080",
-    "AppId":"12632795d"
-},
-"Content":[
- {
-     "Head":"title",
-     "Body":"description"
- }  
-]    
+  "AppDealKey": "5e259018844b7e434c79ec86e097dab830f6fc34ff603433",
+  
+  "IronKey": "13314bec1",
+  
+  "StartAppId": "206262019",
+  
+  "FacebookNativeUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookBannerUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookInterUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookRewardUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  
+  "AdmobBannerUnitId": "ca-app-pub-3940256099942544/6300978111",
+  "AdmobInterUnitId": "ca-app-pub-3940256099942544/1033173712",
+  "AdmobNativeUnitId": "ca-app-pub-3940256099942544/2247696110",
+  "AdmobRewardUnitId": "ca-app-pub-3940256099942544/5224354917",
+  "AdmobOpenUnitId": "ca-app-pub-3940256099942544/3419835294",
+  
+  
+  "YandexBannerUnitId": "R-M-1456160-4",
+  "YandexInterUnitId": "R-M-1456160-3",
+  "YandexRewardUnitId": "R-M-1456160-1",
+  "YandexNativeUnitId": "R-M-1456160-2",
+  
+  "UnityGameID": "4395371",
+  "UnityBannerUnitId": "Banner_Android",
+  "BannerType": "Yandex",
+  "InterType": "Yandex",
+  "NativeType": "Yandex",
+  "RewardType": "Yandex",
+  
+  "IsAdmobON": false,
+  "IsFacebookON": true,
+  "IsIronON": false,
+  "IsYandexON": false,
+  "IsAppoDealON": false,
+  "IsStartAppON": false,
+  "IsUnityON": false, 
+  
+  
+  "Panding": false,
+  "IsSuspended": false,
+  
+  
+  "IconUrl": "https://play-lh.googleusercontent.com/GVA79ThEawdeIh1fOPY8j7xFEPjY8Mt3oncMBdTXzbpxAI7USSNa-RRhcT0rHfXA4Xw=s360-rw",
+  "title": "OmeTheApp",
+  "AppUrl": "com.jornkinc.omedliokjeaz"
 }
